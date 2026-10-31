@@ -52,7 +52,7 @@ I'm Ozzy Couts, an MMA practitioner focused on continuous improvement, disciplin
 ---
 
 <p align="center">
-  **OZZY COUTS**
+  Ozzy Couts
   <br>
   Discipline > Talent.
 </p>
